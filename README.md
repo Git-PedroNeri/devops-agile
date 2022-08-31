@@ -2,6 +2,8 @@
 
 Clines API is the backend of **Caelum Aero linhas**. It allows the customer to buy flight reservations and 
 backoffice user to management flights, airport and aircraft.
+Link do curso Alura
+https://cursos.alura.com.br/course/agilidade-devops-desenvolvimento-software
 
 
 ## Prerequisites
